@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ML Uppgift 1 – California Housing
 
 Detta repository innehåller lösningen till ML Uppgift 1 inom kursen Machine Learning.
@@ -18,3 +19,6 @@ Uppgiften bygger på California Housing-datasetet och syftet är att undersöka 
 
 ## Miljö
 - Python version: 3.13
+=======
+# Uppgift_ML_California_Housing_
+>>>>>>> 099b2872845648599e4a9c287b33e8e155599b05
